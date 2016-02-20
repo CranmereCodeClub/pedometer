@@ -14,6 +14,8 @@
 
 5) Breadboard and wires
 
+![Circuit](pedometer_bb.png)
+
 ## Software
 
 1) Adafruit LSM303 Python library, modified for Python3 (version in thsi GitHub repo)
